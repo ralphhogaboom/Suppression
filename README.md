@@ -1,6 +1,6 @@
 Suppression
 ===========
-Simple plugin for Spigot / Bukkit servers. Suppression cancels the effects of players using lighters, lava buckets, and firecharges based on a permissio node.
+Simple plugin for Spigot / Bukkit servers. Suppression cancels the effects of players using lighters, lava buckets, and firecharges based on a permission node.
 
 To use:
 Drop in your plugins folder, and restart / reload the server.
