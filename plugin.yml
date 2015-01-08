@@ -1,3 +1,10 @@
-name: Supression
-main: com.hideyourfire.ralphhogaboom.Supression.Main
-version: 0.4
+name: Suppression
+main: com.hideyourfire.ralphhogaboom.Suppression.Main
+version: Bluebird, build-20150107
+permissions:
+    suppression.use:
+        description: Players with this permission node can use lava buckets, fire charges, and lighters.
+        default: false
+    suppression.admin:
+        description: Players with this permission receive alerts when other players attempt to use lava buckets, fire charges, and lighters.
+        default: op

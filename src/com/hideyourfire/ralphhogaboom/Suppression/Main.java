@@ -1,4 +1,4 @@
-package com.hideyourfire.ralphhogaboom.Supression;
+package com.hideyourfire.ralphhogaboom.Suppression;
 
 import java.io.File;
 import org.bukkit.Bukkit;
